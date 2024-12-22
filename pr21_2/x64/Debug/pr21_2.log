@@ -1,0 +1,10 @@
+﻿  main.cpp
+  slots.cpp
+  snacks.cpp
+  vending.cpp
+  vendingcorrects.cpp
+  Создание кода...
+C:\Users\danilrumyantsev\source\repos\pr21_2\pr21_2\vendingcorrects.cpp(13,1): warning C4715: vendingcorrects::correctAlpha: значение возвращается не при всех путях выполнения
+C:\Users\danilrumyantsev\source\repos\pr21_2\pr21_2\vendingcorrects.cpp(34,1): warning C4715: vendingcorrects::correctCountMassive: значение возвращается не при всех путях выполнения
+C:\Users\danilrumyantsev\source\repos\pr21_2\pr21_2\snacks.cpp(26,1): warning C4715: Snack::operator--: значение возвращается не при всех путях выполнения
+  pr21_2.vcxproj -> C:\Users\danilrumyantsev\source\repos\pr21_2\x64\Debug\pr21_2.exe
